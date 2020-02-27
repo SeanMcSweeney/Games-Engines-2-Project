@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 31
+  controlID: 13
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 32
+  controlID: 14
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 33
+  controlID: 15
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -427,9 +427,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 3ce1ffff66e1ffff8ae1ffffaae1ffff82fbffff
+      m_SelectedIDs: 38370000
+      m_LastClickedID: 14136
+      m_ExpandedIDs: ccebffffdaebffffdcebfffff0ebfffff8ebffff00ecffff1cecffff26ecffff36ecffff42ecffff46ecffff58ecffff5aecffffc8fafffff0faffff82fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -489,9 +489,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -26.372995, y: 11.352059, z: -11.06366}
+    m_Target: {x: -35.256924, y: 12.433086, z: -14.498116}
     speed: 2
-    m_Value: {x: -26.372995, y: 11.352059, z: -11.06366}
+    m_Value: {x: -35.256924, y: 12.433086, z: -14.498116}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -521,13 +521,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.00029816965, y: 0.9681164, z: 0.0011525139, w: -0.25050262}
+    m_Target: {x: 0.008149105, y: 0.99022794, z: -0.122727245, w: 0.06574927}
     speed: 2
-    m_Value: {x: 0.00029816933, y: 0.9681154, z: 0.0011525126, w: -0.25050235}
+    m_Value: {x: 0.008149095, y: 0.9902266, z: -0.12272708, w: 0.06574918}
   m_Size:
-    m_Target: 58.662617
+    m_Target: 83.15623
     speed: 2
-    m_Value: 56.136475
+    m_Value: 87.074585
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -618,20 +618,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: F:\GitHub\Games-Engines-2-Project\Autonomous Agents Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 76330000
-    m_LastClickedID: 13174
-    m_ExpandedIDs: 000000002e330000303300003e36000000ca9a3b
+    m_SelectedIDs: a0330000
+    m_LastClickedID: 13216
+    m_ExpandedIDs: 000000009e330000a0330000ee33000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -659,7 +659,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002e33000030330000
+    m_ExpandedIDs: 000000009e330000a0330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -703,7 +703,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 10}
+      m_ClientGUIView: {fileID: 9}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
