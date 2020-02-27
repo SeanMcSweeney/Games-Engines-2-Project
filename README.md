@@ -7,3 +7,5 @@
 - Seek
 - Arrive
 - Flocking
+
+## For this project I am creating my own assets or modifying online assets
