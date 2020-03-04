@@ -12,4 +12,5 @@
 
 ## StoryBoard
 
-<img src="images/storyboard.png">
+<img src="images/StoryBoard.png">
+<img src="images/StoryBoard 2.png">
