@@ -184,8 +184,8 @@ MonoBehaviour:
     y: 0
     width: 298
     height: 574
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -427,9 +427,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: be340000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 82fbffff
+      m_SelectedIDs: f4330000
+      m_LastClickedID: 13300
+      m_ExpandedIDs: 82fbffff7c330000a2330000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -489,9 +489,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -35.256924, y: 12.433086, z: -14.498116}
+    m_Target: {x: -39.27219, y: 20.47148, z: 16.224604}
     speed: 2
-    m_Value: {x: -35.256924, y: 12.433086, z: -14.498116}
+    m_Value: {x: -39.27219, y: 20.47148, z: 16.224604}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -521,20 +521,20 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.008149105, y: 0.99022794, z: -0.122727245, w: 0.06574927}
+    m_Target: {x: -0.07567558, y: -0.7705794, z: 0.09315643, w: -0.625956}
     speed: 2
-    m_Value: {x: 0.008149105, y: 0.99022794, z: -0.122727245, w: 0.06574927}
+    m_Value: {x: -0.0766137, y: -0.7704317, z: 0.09431134, w: -0.6258361}
   m_Size:
-    m_Target: 83.15623
+    m_Target: 3.5533257
     speed: 2
-    m_Value: 83.15623
+    m_Value: 3.2533257
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 0.9
-    m_SpeedNormalized: 0.46748742
+    m_Speed: 0.8
+    m_SpeedNormalized: 0.40748742
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -618,20 +618,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Space Assets
+    - Assets/Materials/ajax
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Space Assets
+  - Assets/Materials/ajax
   m_LastFoldersGridSize: -1
   m_LastProjectPath: F:\GitHub\Games-Engines-2-Project\Autonomous Agents Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: be340000
-    m_LastClickedID: 13502
-    m_ExpandedIDs: 000000006c3400006e340000be34000000ca9a3b
+    m_SelectedIDs: 9e540000
+    m_LastClickedID: 21662
+    m_ExpandedIDs: 000000006c3400006e34000096340000be34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -703,7 +703,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 9}
+      m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
