@@ -9,3 +9,8 @@
 - Flocking
 
 ## For this project I am creating my own assets or modifying online assets
+
+## StoryBoard
+
+<img src="images/StoryBoard.png">
+<img src="images/StoryBoard 2.png">
