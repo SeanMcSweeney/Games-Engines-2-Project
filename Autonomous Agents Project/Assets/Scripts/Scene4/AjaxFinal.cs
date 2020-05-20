@@ -16,16 +16,20 @@ public class AjaxFinal : MonoBehaviour
     float smooth = 5.0f;
     float Angle = 60.0f;
     float TrapTimer;
+    bool arrived;
 
     void Start(){
         pos1 = GameObject.Find("Planet Mongo/Top").GetComponent<Transform>();
+        arrived = false;
     }
 
     void Update()
     {
         TrapTimer += Time.deltaTime;
+        if (TrapTimer <= 30){
         AjaxMove();
         AjaxRotate();
+        }
         if (TrapTimer >= 70){
         }
     }

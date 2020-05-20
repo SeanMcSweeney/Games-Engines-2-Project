@@ -12,7 +12,7 @@ public class SwitchtoFinalScene : MonoBehaviour
     void Start()
     {
         if (SceneSwitchTime == 0){
-        SceneSwitchTime = 30;
+        SceneSwitchTime = 15;
         }
     }
 
