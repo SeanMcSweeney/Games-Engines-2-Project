@@ -13,7 +13,7 @@ public class SwitchSceneTimer : MonoBehaviour
     {
         timerStart = false;
         if (SceneSwitchTime == 0){
-        SceneSwitchTime = 30;
+        SceneSwitchTime = 20;
         }
         if (GODestroyTime == 0){
         GODestroyTime = 20;
@@ -29,7 +29,9 @@ public class SwitchSceneTimer : MonoBehaviour
                 Destroy(gameObject);
             }
             if (timer >= SceneSwitchTime){
-                
+                //Debug.Log("Switch");
+                SceneManager.LoadScene("SecondScene", LoadSceneMode.Additive);
+                SceneManager.LoadScene("SecondScene");
             }
         }
     }
