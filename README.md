@@ -21,7 +21,9 @@ I am very proud of the assets and the enviroment created in this project. The ma
 <img src="images/StoryBoard 2.png">
 
 ## Youtube Video
+<div style="text-align:center">
 [![YouTube](http://img.youtube.com/vi/yWkc3PTS3g4/0.jpg)](https://www.youtube.com/watch?v=yWkc3PTS3g4)
+</div>
 
 ## Assets not created by me
 All music in \Assets\Music
